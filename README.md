@@ -14,7 +14,6 @@ During my **Octanet internship**, I developed an **ATM Machine Project**, demons
 ## 🔧 Technologies & Skills
 - **Programming Languages:** C, Python, Java, C++
 - **AI/ML Enthusiast**
-- **Software Development**
 
 ## 📫 Connect with Me
 Feel free to connect with me for collaborations, discussions, or project inquiries!
